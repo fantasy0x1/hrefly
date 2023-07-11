@@ -5,6 +5,6 @@ Quick retrive all href linked paths/links in HTML source code, easilly, a simple
 ## Installation
 
 ```go
-    go install github.com/c3l3si4n/thankunext@latest
+go install github.com/c3l3si4n/thankunext@latest
 ```
 
